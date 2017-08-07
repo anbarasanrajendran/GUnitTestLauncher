@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite name="gwservices.accelerator.testing.gunit.test.MethodProtectionTestTest" errors="1" failures="0" tests="1" time="0.099" timestamp="Thu Aug 03 14:31:02 EDT 2017"><testcase classname="null(gwservices.accelerator.testing.gunit.test.MethodProtectionTestTest)" name="testMethodsRunInATest" time="0.055"><error message="junit.framework.ComparisonFailure: expected:&lt;...tMethodThatShouldRun[1]]&gt; but was:&lt;...tMethodThatShouldRun[]]&gt;
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="gwservices.accelerator.testing.gunit.test.MethodProtectionTestTest" errors="1" failures="0" tests="1" time="0.099" timestamp="Mon Aug 07 11:07:47 EDT 2017"><testcase classname="null(gwservices.accelerator.testing.gunit.test.MethodProtectionTestTest)" name="testMethodsRunInATest" time="0.052"><error message="junit.framework.ComparisonFailure: expected:&lt;...tMethodThatShouldRun[1]]&gt; but was:&lt;...tMethodThatShouldRun[]]&gt;
 	at junit.framework.Assert.assertEquals(Assert.java:100)
 	at junit.framework.Assert.assertEquals(Assert.java:107)
 	at junit.framework.TestCase.assertEquals(TestCase.java:269)
